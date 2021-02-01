@@ -20,7 +20,7 @@ python gen_detections.py \
     --detections-dir /path/to/detection/ \
     --annotations /path/to/train.json \
     --output-dir ./data/ \
-    --detection-file det.txt \
+    --output-file det.txt \
     --nms-thresh 0.5 \
     --det-num 300 \
     --workers 8

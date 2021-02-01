@@ -54,7 +54,7 @@ train/YFCC100M/v_8b6283255797fc7e94f3a93947a2803/frame1291.jpg
 - You can change the GPU resources in the `tools/multi_process_inference/multi_inference.py` code based on the number of GPUs.
 - The detection results are saved in the `./results` folder.
 - Please note that the model backbone large, therefore the inference takes a long time (7h+ in total).
-- To save time, you can download the detection results directly [TAO_alldet.zip]()(available soon)
+- To save time, you can download the detection results directly [TAO_alldet.zip](https://drive.google.com/file/d/1cH3aYvCqzdT2PS27rWrC2ECj1d_H3HWy/view?usp=sharing)
 
 ```
 cd tao_detection_release
