@@ -11,6 +11,10 @@ With this code, you can achieve around mAP@23 with TAO test set (based on our es
 
 Please find instructions for the detection model in [tao_detection_release/README.md](tao_detection_release/README.md) and the tracking model in [tao_tracking_release/README.md](tao_tracking_release/README.md)
 
+# Result file：
+
+The result for the TAO validation set can be dowloaded in [TAO_val](https://drive.google.com/file/d/1NGLcQ40ci2MfbJK34hq37mv9iTOXV2sh/view?usp=sharing).
+
 # License
 
 Apache 2.0
