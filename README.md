@@ -13,7 +13,7 @@ Please find instructions for the detection model in [tao_detection_release/READM
 
 # Result file：
 
-The result for the TAO validation set can be dowloaded in [TAO_val](https://drive.google.com/file/d/1NGLcQ40ci2MfbJK34hq37mv9iTOXV2sh/view?usp=sharing).
+The result for the TAO validation set can be downloaded in [TAO_val](https://drive.google.com/file/d/1NGLcQ40ci2MfbJK34hq37mv9iTOXV2sh/view?usp=sharing).
 
 # License
 
